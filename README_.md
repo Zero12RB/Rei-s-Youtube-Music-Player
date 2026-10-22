@@ -13,7 +13,6 @@ A Windows-based application that turns your computer into a receiver for music o
 
 ## ✨ Key Features
 
-* 🚀 **Lightning-Fast Launch & Optimization:** Launches the YouTube TV window in the background from the very start, with no screen flickering or stuttering.
 * 🙈 **Completely Off-Screen:** Shifts the YouTube TV window outside the visible display area, allowing you to work or play games without any interruptions.
 * ⚡ **Resource Efficiency:** Automatically optimizes concurrent Edge processes (removing redundant or duplicate tabs) to save RAM.
 
