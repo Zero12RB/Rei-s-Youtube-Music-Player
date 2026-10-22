@@ -13,7 +13,6 @@ Một ứng dụng chạy trên nền Windows cho phép biến máy tính của 
 
 ## ✨ Tính năng nổi bật (Key Features)
 
-* 🚀 **Khởi chạy siêu tốc & Tối ưu hóa:** Khởi chạy cửa sổ YouTube TV ngầm ngay từ gốc mà không gây chớp/giật màn hình.
 * 🙈 **Ẩn hoàn toàn Off-Screen:** Dịch chuyển vị trí cửa sổ YouTube TV ra ngoài tọa độ hiển thị của màn hình, giúp bạn làm việc, chơi game không bị gián đoạn.
 * ⚡ **Tiết kiệm tài nguyên:** Tự động tối ưu hóa hai tiến trình Edge song song (loại bỏ thẻ dư thừa/trùng lặp) giúp tiết kiệm dung lượng RAM.
 
