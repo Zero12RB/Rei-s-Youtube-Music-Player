@@ -20,6 +20,8 @@ Một ứng dụng chạy trên nền Windows cho phép biến máy tính của 
 * 🔔 **Tích hợp System Tray:** Thu gọn ứng dụng xuống khay hệ thống (System Tray) gọn gàng.
 * ⚙️ **Chế độ Auto-Hide:** Tự động ẩn toàn bộ giao diện và cửa sổ phát ngay khi khởi động Windows.
 
+# [DEmo](https://www.youtube.com/watch?v=ukMnSQh2bvM&feature=youtu.be) 
+
 ---
 
 ## 📋 Yêu cầu hệ thống (Requirements)
