@@ -26,7 +26,7 @@ Một ứng dụng chạy trên nền Windows cho phép biến máy tính của 
 
 * **Hệ điều hành:** Windows 10 / Windows 11
 * **Trình duyệt:** Microsoft Edge (Được cài đặt mặc định trên Windows)
-* **Extension Yêu cầu :** [Youtube TV ON PC](https://chromewebstore.google.com/detail/jldjbkccldgbegjpggphaeikombjmnkh?utm_source=item-share-cb)       [UBlock Origin](https://ublockorigin.com/)
+* **Extension Yêu cầu :** [Youtube TV ON PC](https://chromewebstore.google.com/detail/jldjbkccldgbegjpggphaeikombjmnkh?utm_source=item-share-cb)   |    [UBlock Origin](https://ublockorigin.com/)
 * **Quyền hạn:** Chạy dưới quyền **Administrator** 
 
 ---
@@ -34,7 +34,7 @@ Một ứng dụng chạy trên nền Windows cho phép biến máy tính của 
 ## 🚀 Hướng dẫn sử dụng (Usage)
 
 ### 1. Cài đặt Extension + Khởi chạy script
-Cài đặt 2 Extension này cho trình duyệt Edge : [Youtube TV ON PC](https://chromewebstore.google.com/detail/jldjbkccldgbegjpggphaeikombjmnkh?utm_source=item-share-cb)       [UBlock Origin](https://ublockorigin.com/)
+Cài đặt 2 Extension này cho trình duyệt Edge : [Youtube TV ON PC](https://chromewebstore.google.com/detail/jldjbkccldgbegjpggphaeikombjmnkh?utm_source=item-share-cb)    |    [UBlock Origin](https://ublockorigin.com/)
 Nhấp chuột phải vào file `YTHeadless.exe`, Chờ cho tới khi 2 cửa sổ mở xong
 Tại đây sẽ xuất hiện Panel , chọn `1. Open youtube`
 
