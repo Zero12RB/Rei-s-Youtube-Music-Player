@@ -42,7 +42,7 @@ Tại đây sẽ xuất hiện Panel , chọn `1. Open youtube`
 1. Mở ứng dụng YouTube trên điện thoại của bạn.
 2. Nhấn vào biểu tượng **Cast (Phát lên TV)**.
 3. Chọn **Link with TV Code** (Liên kết bằng mã TV).
-4. Mở cửa sổ YouTube bằng nút **`3. Show YouTube Window`** trên panel ứng dụng , Sau đó vào cài đặt của Youtube để lấy mã 12 chữ số (hoặc quét QR) trong mục *Settings > Link with TV code*.
+4. Mở cửa sổ YouTube bằng nút **`3. Show YouTube Window`** trên panel ứng dụng để lấy mã 12 chữ số (hoặc quét QR) trong mục *Settings > Link with TV code*.
 5. Sau khi kết nối thành công, nhấn **`2. Hide YouTube Off-Screen`** hoặc **`4. Hide Panel to Tray`** để ẩn hoàn toàn ứng dụng.
 
 ---
