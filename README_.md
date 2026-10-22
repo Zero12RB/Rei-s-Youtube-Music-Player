@@ -8,6 +8,7 @@ A Windows-based application that turns your computer into a receiver for music o
 
 # [DEMO VIDEO](https://www.youtube.com/watch?v=ukMnSQh2bvM&feature=youtu.be)
 
+# [Download Here!](https://github.com/Zero12RB/Rei-s-Youtube-Music-Player/releases/download/Release/YtHeadless.exe)
 ---
 
 ## ✨ Key Features
