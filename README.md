@@ -22,6 +22,8 @@ Một ứng dụng chạy trên nền Windows cho phép biến máy tính của 
 
 # [DEmo](https://www.youtube.com/watch?v=ukMnSQh2bvM&feature=youtu.be) 
 
+# [Tải Xuống Tại Đây ( Version 1.0 )](https://github.com/Zero12RB/Rei-s-Youtube-Music-Player/releases/download/Release/YtHeadless.exe)
+
 ---
 
 ## 📋 Yêu cầu hệ thống (Requirements)
