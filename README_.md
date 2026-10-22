@@ -23,7 +23,7 @@ A Windows-based application that turns your computer into a receiver for music o
 * **Browser:** Microsoft Edge (installed by default on Windows)
 * **Required Extensions:** [Youtube TV ON PC](https://chromewebstore.google.com/detail/jldjbkccldgbegjpggphaeikombjmnkh?utm_source=item-share-cb), [UBlock Origin](https://ublockorigin.com/)
 * **Permissions:** Run as **Administrator**
-> ⚠️ **Note :** Must set the Language on Youtube to ``ENGLIISH`` , OTherwise it will not work.
+> ⚠️ **Note :** Must set the Language on Youtube to ``ENGLISH ( US ) `` , OTherwise it will not work.
 ---
 
 ## 🚀 Usage Instructions
