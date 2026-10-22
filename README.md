@@ -15,10 +15,7 @@ Một ứng dụng chạy trên nền Windows cho phép biến máy tính của 
 
 * 🚀 **Khởi chạy siêu tốc & Tối ưu hóa:** Khởi chạy cửa sổ YouTube TV ngầm ngay từ gốc mà không gây chớp/giật màn hình.
 * 🙈 **Ẩn hoàn toàn Off-Screen:** Dịch chuyển vị trí cửa sổ YouTube TV ra ngoài tọa độ hiển thị của màn hình, giúp bạn làm việc, chơi game không bị gián đoạn.
-* 🎧 **Hook Event Win32 Real-time:** Tự động bắt sự kiện tạo cửa sổ YouTube mới và đẩy ngay ra ngoài màn hình trong `0ms`.
 * ⚡ **Tiết kiệm tài nguyên:** Tự động tối ưu hóa hai tiến trình Edge song song (loại bỏ thẻ dư thừa/trùng lặp) giúp tiết kiệm dung lượng RAM.
-* 🔔 **Tích hợp System Tray:** Thu gọn ứng dụng xuống khay hệ thống (System Tray) gọn gàng.
-* ⚙️ **Chế độ Auto-Hide:** Tự động ẩn toàn bộ giao diện và cửa sổ phát ngay khi khởi động Windows.
 
 # [DEmo](https://www.youtube.com/watch?v=ukMnSQh2bvM&feature=youtu.be) 
 
