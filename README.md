@@ -29,7 +29,7 @@ Một ứng dụng chạy trên nền Windows cho phép biến máy tính của 
 * **Trình duyệt:** Microsoft Edge (Được cài đặt mặc định trên Windows)
 * **Extension Yêu cầu :** [Youtube TV ON PC](https://chromewebstore.google.com/detail/jldjbkccldgbegjpggphaeikombjmnkh?utm_source=item-share-cb)   |    [UBlock Origin](https://ublockorigin.com/)
 * **Quyền hạn:** Chạy dưới quyền **Administrator** 
-
+> ⚠️ **Lưu ý:** Nên giữ ngôn ngữ ở Tiếng Anh , nếu không thì phần mềm sẽ không hoạt động
 ---
 
 ## 🚀 Hướng dẫn sử dụng (Usage)
