@@ -1,5 +1,8 @@
 # 🎵 Rei's Youtube Music Player (Off-Screen Cast Receiver)
 
+# E[NGLISH VERSION](https://github.com/Zero12RB/Rei-s-Youtube-Music-Player/blob/main/README._ENmd) 
+
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
